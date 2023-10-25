@@ -3,4 +3,4 @@
   * `Opt_` means optimised waveforms.
   * `V-100+1000` means that the negative voltage limit is 100 and the positive voltage limit is 100.
 2. `OptimisedWaveforms` contains the optimised asymmetric E-field pulses.
-  * `MonophasicPhaseSummary` in both `.xlsx` and `mat` are files summarising optimised waveforms.
+  * `MonophasicPhaseSummary` in both `.xlsx` and `.mat` are files summarising optimised waveforms.
